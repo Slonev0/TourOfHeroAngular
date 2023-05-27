@@ -4,11 +4,11 @@ link of the tutorial :
 [AngularTourOfHeroes](https://angular.io/tutorial/tour-of-heroes)
 
 ## 🛠️ Tech Stack
-[Angular](https://angular.io/)
-[TypeScript](https://www.typescriptlang.org/)
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## 🙇 Author
 #### Voisin Enzo
