@@ -9,6 +9,13 @@ Code following the example of TourOfHeroes to learn Angular :
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+## 🛠️ Install project    
+```bash
+git clone https://github.com/Slonev0/TourOfHeroAngular.git
+npm install
+ng serve
+```
+
 ## 🙇 Author
 #### Voisin Enzo
 - Github: [@Enzo](https://github.com/Slonev0)
