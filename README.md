@@ -1,6 +1,5 @@
 # <p align="center">TourOfHeroAngular</p>
-Code following the example of TourOfHeroes to learn Angular
-link of the tutorial : 
+Code following the example of TourOfHeroes to learn Angular :
 [AngularTourOfHeroes](https://angular.io/tutorial/tour-of-heroes)
 
 ## 🛠️ Tech Stack
